@@ -42,12 +42,14 @@ Descripción
 
 ---
 
-## Título del programa
-### Integrante
+## Ejemplo POO
+### Osorio Angeles Rodrigo Jafet
 
-Descripción
+Ejemplo POO, implementando interfaz.
 
-    Instrucciones extra, como compilación o librerías
+Ejecución:
+
+    dotnet run
 
 ---
 
