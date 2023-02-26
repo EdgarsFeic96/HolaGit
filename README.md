@@ -51,7 +51,7 @@ El programa es un ejemplo sencillo de cómo conectarse a una API web en C#, mani
 
 ### Ejecución:
 
-    dotnet run
+    dotnet run --project BoreD
 
 ### Algunos ejemplos de respuestas:
 
@@ -76,4 +76,4 @@ Ejemplo POO, implementando interfaz.
 
 Ejecución:
 
-    dotnet run
+    dotnet run --project Figuras
