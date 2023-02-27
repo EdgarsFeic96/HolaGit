@@ -33,12 +33,18 @@ Descripción
 
 ---
 
-## Título del programa
-### Integrante
+## Calculadora en Java
+### Monter González Luis Enrique
 
-Descripción
+Este en un programa hecho en Java que genera una GUI (usando JavaSwing) de una calculadora capaz de hacer operaciones básicas con dos números. Las operaciones se hacen mediante botones y el resultado se muestra debajo en los operadores. 
 
-    Instrucciones extra, como compilación o librerías
+### Compilación:
+
+    javac Calculadora.java
+
+### Ejecución:
+
+    java Calculadora
 
 ---
 
