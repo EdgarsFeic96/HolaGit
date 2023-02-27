@@ -4,6 +4,12 @@ namespace BoreD.Models;
 
 #nullable disable
 
+/// <summary>
+/// Modelo de una respuesta de The Bored API
+/// necesaria para deserializar el JSON obtenido
+/// en un objeto de C#.
+/// </summary>
+
 public class BoredResponse
 {
     [JsonProperty("activity")]
