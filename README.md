@@ -6,14 +6,14 @@ Aquí se han compartido diversos programas realizados por el equipo, de distinto
 
 ---
 
-## Título del programa
-### Integrante
+## Cálculos Generales
+### Arreola Santander Ricardo
 
-Descripción
+Se trata de un programa que puede resolver algunas operaciones básicas y y otras extra, cada tipo de operación se encuentra en un módulo que se ejecuta en el método principal que se encuentra en Calculos_generales.py, funciona con cualquier número real.
 
-    Instrucciones extra, como compilación o librerías
+### Ejecución:
 
----
+    Calculos_generales.py
 
 ## Título del programa
 ### Integrante
