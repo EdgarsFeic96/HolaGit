@@ -24,15 +24,6 @@ Descripción
 
 ---
 
-## Título del programa
-### Integrante
-
-Descripción
-
-    Instrucciones extra, como compilación o librerías
-
----
-
 ## Calculadora en Java
 ### Monter González Luis Enrique
 
@@ -84,7 +75,9 @@ Ejecución:
 
     dotnet run --project Figuras
     
-##Ejercicios de Gracifas en Python
-##López Cantarell Diego Emir
+---
+    
+## Ejercicios de Gracifas en Python
+### López Cantarell Diego Emir
 
 Ejemplos de Graficas aplicadas en python para mejorar el uso del lenguaje de programación
