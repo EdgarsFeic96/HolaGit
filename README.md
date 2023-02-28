@@ -4,8 +4,6 @@ Esta es una actividad para la materia de <strong>Administración de proyectos de
 
 Aquí se han compartido diversos programas realizados por el equipo, de distintos temas y lenguajes de programación, con el objetivo de aprender el uso básico de Git y GitHub.
 
----
-
 ## Cálculos Generales
 ### Arreola Santander Ricardo
 
@@ -30,7 +28,7 @@ Para usarlo en un programa principal "main.c" de ejemplo
 
 <small>* Debido a que es un módulo, para usarlo requiere un programa principal.</small>
 
-## Ejercicios de Gracifas en Python
+## Ejercicios de Gráficas en Python
 ### López Cantarell Diego Emir
 
 Ejemplos de Graficas aplicadas en python para mejorar el uso del lenguaje de programación
