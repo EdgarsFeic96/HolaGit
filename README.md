@@ -15,14 +15,26 @@ Se trata de un programa que puede resolver algunas operaciones básicas y y otra
 
     Calculos_generales.py
 
-## Título del programa
-### Integrante
+## Implementación de una lista doblemente ligada en C
+### Daniel Vicente Gonzalez Romero
 
-Descripción
+Este codigo escrito en C muestra como se implementaria una lista doblemente ligada, utilizando apuntadores y uso de memoria dinamica
 
-    Instrucciones extra, como compilación o librerías
+Compilación como módulo
 
----
+    clang -c ./DLL.c
+
+Para usarlo en un programa principal "main.c" de ejemplo
+
+    clang ./main.c ./DLL.o -o DoubleLinkedListExample
+
+<small>* Debido a que es un módulo, para usarlo requiere un programa principal.</small>
+
+## Ejercicios de Gracifas en Python
+### López Cantarell Diego Emir
+
+Ejemplos de Graficas aplicadas en python para mejorar el uso del lenguaje de programación
+
 
 ## Calculadora en Java
 ### Monter González Luis Enrique
@@ -36,8 +48,6 @@ Este en un programa hecho en Java que genera una GUI (usando JavaSwing) de una c
 ### Ejecución:
 
     java Calculadora
-
----
 
 ## BoreD
 ### Moreno Chalico Edgar Ulises
@@ -64,8 +74,6 @@ El programa es un ejemplo sencillo de cómo conectarse a una API web en C#, mani
 
 <small>Requiere .NET 6</small>
 
----
-
 ## Ejemplo POO
 ### Osorio Angeles Rodrigo Jafet
 
@@ -74,10 +82,3 @@ Ejemplo POO, implementando interfaz.
 Ejecución:
 
     dotnet run --project Figuras
-    
----
-    
-## Ejercicios de Gracifas en Python
-### López Cantarell Diego Emir
-
-Ejemplos de Graficas aplicadas en python para mejorar el uso del lenguaje de programación
